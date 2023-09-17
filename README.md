@@ -3,6 +3,7 @@ My name is Thomas Anton, and I'm a software engineer with a passion for creating
 
 ## What I'm Currently Working On
 Building a new React/Redux app that simplifies client and event scheduling
+
 Learning more about Java and exploring the possibilities it offers for future projects
 
 ## My Skills
